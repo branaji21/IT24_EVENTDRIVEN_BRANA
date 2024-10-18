@@ -1,0 +1,27 @@
+[{
+    "student_id": 1,
+    "student_name": "Ralph Hope Ayo-on",
+    "student_program": "BS-Computer Science",
+    "student_enrolled_date": "2020-06-09"
+  },
+  {
+    "student_id": 2,
+    "student_name": "Rimond Jabez Binayao",
+    "student_program": "BS-Engineering",
+    "student_enrolled_date": "2021-07-08"
+  },
+  {
+    "student_id": 3,
+    "student_name": "Clyde Jamir Mapalo",
+    "student_program": "BS-Bussiness Administration",
+    "student_enrolled_date": "2022-06-13"
+  },
+  {
+    "student_id": 4,
+    "student_name": "Jaspher Jules Jappo",
+    "student_program": "BS-Criminology",
+    "student_enrolled_date": "2000-05-26"
+  }
+
+
+]   
