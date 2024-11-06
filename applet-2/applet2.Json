@@ -14,3 +14,24 @@
         "longitude": 124.811484,
         "message": "Pine Coop Store"
     },
+    {
+        "latitude": 8.323222,
+        "longitude": 124.810952,
+        "message": "My Home"
+    },
+    {
+        "latitude":8.322366,
+        "longitude": 124.81298,
+        "message": "Plaza (Oval)"
+    },
+    {
+        "latitude": 8.321088,
+        "longitude": 124.812895,
+        "message": "Plantation Elementary School"
+    },
+    {
+        "latitude": 8.322123,
+        "longitude": 124.811901,
+        "message": "Del Monte Scoccer Field"
+    }
+]
