@@ -18,7 +18,7 @@ class AppletCard {
                             </div>
                             <div class="col-8">
                                 <h5 class="card-title">${this.title}</h5>
-                                <p class="card-text"</p>
+                                <p class="card-text">${this.description}</p>
                             </div>
                         </div>
                     </div>
